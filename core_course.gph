@@ -1,0 +1,39 @@
+# Course sequence
+27		# Number of vertices
+D		# Directed Graph
+0 1		# List of edges; 0 is MATH204 and 1 is COEN212
+0 2		# 0 is for MATH204 and 2 is for COEN231
+0 3		# 0 is for MATH204 and 3 is for COEN243
+3 4		# 3 is for COEN243 and 4 is for COEN244
+1 5		# 1 is for COEN212 and 5 is for COEN311
+3 5		# 3 is for COEN243 and 5 is for COEN311
+1 6		# 1 is for COEN212 and 6 is for COEN313
+2 6		# 2 is for COEN231 and 6 is for COEN313
+1 7		# 1 is for COEN212 and 7 is for COEN314
+8 7		# 8 is for ELEC273 and 7 is for COEN314
+5 9		# 5 is for COEN311 and 9 is for COEN316
+6 9		# 6 is for COEN313 and 9 is for COEN316
+5 10		# 5 is for COEN311 and 10 is for COEN317
+6 10		# 6 is for COEN313 and 10 is for COEN317
+11 12		# 11 is for COEN346 and 12 is for COEN320
+5 11		# 5 is for COEN311 and 11 is for COEN346
+13 11		# 13 is for COEN352 and 11 is for COEN346
+2 13		# 2 is for COEN231 and 13 is for COEN352
+4 13		# 4 is for COEN244 and 13 is for COEN352
+11 14		# 11 is for COEN346 and 14 is for COEN366
+5 15		# 5 is for COEN311 and 15 is for COEN390
+13 15		# 13 is for COEN352 and 15 is for COEN390
+16 15		# 16 is for ENGR290 and 15 is for COEN390
+17 18		# 17 is for ENGR301 and 18 is for COEN490
+19 18		# 19 is for ENGR371 and 18 is for COEN490
+15 18		# 15 is for COEN390 and 18 is for COEN490
+20 18		# 20 is for SOEN341 and 18 is for COEN490
+8 21		# 8 is for ELEC273 and 21 is for ELEC242
+22 21		# 22 is for ENGR213 and 21 is for ELEC242
+21 23		# 21 is for ELEC242 and 23 is for ELEC342
+21 24		# 21 is for ELEC242 and 24 is for ELEC372
+25 16		# 25 is for ENCS282 and 16 is for ENGR290
+22 16		# 22 is for ENGR213 and 16 is for ENGR290
+26 16		# 26 is for ENGR233 and 16 is for ENGR290
+13 20		# 13 is for COEN352 and 20 is for SOEN341
+25 20		# 25 is for ENCS282 and 20 is for SOEN341
